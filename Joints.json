@@ -1,0 +1,99 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Joints",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+      {
+        "ClassName": "CP_CigarettePack_CannabisSkunk",
+        "MaxPriceThreshold": 5000,
+        "MinPriceThreshold": 5000,
+        "SellPricePercent": 100,
+        "MaxStockThreshold": 0,
+        "MinStockThreshold": 0,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "CP_CigarettePack_CannabisBlue",
+        "MaxPriceThreshold": 5000,
+        "MinPriceThreshold": 5000,
+        "SellPricePercent": 100,
+        "MaxStockThreshold": 0,
+        "MinStockThreshold": 0,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "CP_CigarettePack_CannabisKush",
+        "MaxPriceThreshold": 5000,
+        "MinPriceThreshold": 5000,
+        "SellPricePercent": 100,
+        "MaxStockThreshold": 0,
+        "MinStockThreshold": 0,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "CP_CigarettePack_CannabisStardawg",
+        "MaxPriceThreshold": 5000,
+        "MinPriceThreshold": 5000,
+        "SellPricePercent": 100,
+        "MaxStockThreshold": 0,
+        "MinStockThreshold": 0,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "CP_CigarettePack_CannabisFuture",
+        "MaxPriceThreshold": 5000,
+        "MinPriceThreshold": 5000,
+        "SellPricePercent": 100,
+        "MaxStockThreshold": 0,
+        "MinStockThreshold": 0,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "CP_CigarettePack_CannabisS1",
+        "MaxPriceThreshold": 5000,
+        "MinPriceThreshold": 5000,
+        "SellPricePercent": 100,
+        "MaxStockThreshold": 0,
+        "MinStockThreshold": 0,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "CP_CigarettePack_CannabisNomad",
+        "MaxPriceThreshold": 5000,
+        "MinPriceThreshold": 5000,
+        "SellPricePercent": 100,
+        "MaxStockThreshold": 0,
+        "MinStockThreshold": 0,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "CP_CigarettePack_CannabisBlackFrost",
+        "MaxPriceThreshold": 5000,
+        "MinPriceThreshold": 5000,
+        "SellPricePercent": 100,
+        "MaxStockThreshold": 0,
+        "MinStockThreshold": 0,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      }
+    ]
+}
+      

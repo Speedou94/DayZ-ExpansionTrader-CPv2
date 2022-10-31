@@ -1,0 +1,87 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Crèmes et feuilles ",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+    {
+        "ClassName": "CP_Relief_Balm",
+        "MaxPriceThreshold": 200,
+        "MinPriceThreshold": 200,
+        "SellPricePercent": 100,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "CP_RollingPapers",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 200,
+        "SellPricePercent": 100,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "CP_EmptyBag",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 200,
+        "SellPricePercent": 100,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "CP_PlasticRoll",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 200,
+        "SellPricePercent": 100,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "CP_Workbench_Kit",
+        "MaxPriceThreshold": 15000,
+        "MinPriceThreshold": 200,
+        "SellPricePercent": 100,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "CP_Bagger",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 200,
+        "SellPricePercent": 100,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "CP_PlasticWrapper",
+        "MaxPriceThreshold": 2000,
+        "MinPriceThreshold": 200,
+        "SellPricePercent": 100,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      }
+    ]
+}

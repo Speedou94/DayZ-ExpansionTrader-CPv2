@@ -1,0 +1,24 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Drogue Dealer",
+    "MinRequiredHumanity": -2147483648,
+    "MaxRequiredHumanity": 2147483647,
+    "TraderIcon": "Medic Box",
+    "Currencies": [
+      "expansionBanknoteEuro",
+      "euro100",
+      "euro50",
+      "euro20",
+      "euro10",
+      "euro5",
+      "euro"
+    ],
+    "Categories": [
+      "Bricks",
+      "SeedsPack",
+      "Joints",
+      "Cigarettes",
+      "Others"    
+    ],
+    "Items": {}
+  }
